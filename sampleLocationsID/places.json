@@ -1,0 +1,2934 @@
+{
+    "RandL": {
+        "items": [
+            {
+                "name": "Abidjan",
+                "locId": "113725",
+                "geoMeta": {
+                    "lat": 5.323,
+                    "lon": -4.026
+                },
+                "country": {
+                    "name": "Cote D'Ivoire",
+                    "id": "CI"
+                }
+            },
+            {
+                "name": "Abu Dhabi",
+                "locId": "321626",
+                "geoMeta": {
+                    "lat": 24.469,
+                    "lon": 54.358
+                },
+                "country": {
+                    "name": "United Arab Emirates",
+                    "id": "AE"
+                }
+            },
+            {
+                "name": "Abuja",
+                "locId": "254085",
+                "geoMeta": {
+                    "lat": 9.062,
+                    "lon": 7.487
+                },
+                "country": {
+                    "name": "Nigeria",
+                    "id": "NG"
+                }
+            },
+            {
+                "name": "Accra",
+                "locId": "178551",
+                "geoMeta": {
+                    "lat": 5.559,
+                    "lon": -0.201
+                },
+                "country": {
+                    "name": "Ghana",
+                    "id": "GH"
+                }
+            },
+            {
+                "name": "Addis Ababa",
+                "locId": "126831",
+                "geoMeta": {
+                    "lat": 9.023,
+                    "lon": 38.747
+                },
+                "country": {
+                    "name": "Ethiopia",
+                    "id": "ET"
+                }
+            },
+            {
+                "name": "Ahmedabad",
+                "locId": "202438",
+                "geoMeta": {
+                    "lat": 23.013,
+                    "lon": 72.61
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Ahvaz",
+                "locId": "210047",
+                "geoMeta": {
+                    "lat": 31.337,
+                    "lon": 48.675
+                },
+                "country": {
+                    "name": "Iran",
+                    "id": "IR"
+                }
+            },
+            {
+                "name": "Alexandria",
+                "locId": "126995",
+                "geoMeta": {
+                    "lat": 31.204,
+                    "lon": 29.914
+                },
+                "country": {
+                    "name": "Egypt",
+                    "id": "EG"
+                }
+            },
+            {
+                "name": "Algiers",
+                "locId": "2093",
+                "geoMeta": {
+                    "lat": 36.766,
+                    "lon": 3.032
+                },
+                "country": {
+                    "name": "Algeria",
+                    "id": "DZ"
+                }
+            },
+            {
+                "name": "Almaty",
+                "locId": "222191",
+                "geoMeta": {
+                    "lat": 43.255,
+                    "lon": 76.913
+                },
+                "country": {
+                    "name": "Kazakhstan",
+                    "id": "KZ"
+                }
+            },
+            {
+                "name": "Ankara",
+                "locId": "316938",
+                "geoMeta": {
+                    "lat": 39.912,
+                    "lon": 32.84
+                },
+                "country": {
+                    "name": "Türkiye",
+                    "id": "TR"
+                }
+            },
+            {
+                "name": "Astana",
+                "locId": "222343",
+                "geoMeta": {
+                    "lat": 51.167,
+                    "lon": 71.433
+                },
+                "country": {
+                    "name": "Kazakhstan",
+                    "id": "KZ"
+                }
+            },
+            {
+                "name": "Auckland",
+                "locId": "252066",
+                "geoMeta": {
+                    "lat": -36.847,
+                    "lon": 174.766
+                },
+                "country": {
+                    "name": "New Zealand",
+                    "id": "NZ"
+                }
+            },
+            {
+                "name": "Baghdad",
+                "locId": "207375",
+                "geoMeta": {
+                    "lat": 33.328,
+                    "lon": 44.386
+                },
+                "country": {
+                    "name": "Iraq",
+                    "id": "IQ"
+                }
+            },
+            {
+                "name": "Baku",
+                "locId": "27103",
+                "geoMeta": {
+                    "lat": 40.395,
+                    "lon": 49.883
+                },
+                "country": {
+                    "name": "Azerbaijan",
+                    "id": "AZ"
+                }
+            },
+            {
+                "name": "Bandung",
+                "locId": "208977",
+                "geoMeta": {
+                    "lat": -6.904,
+                    "lon": 107.61
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": "ID"
+                }
+            },
+            {
+                "name": "Bangkok",
+                "locId": "318849",
+                "geoMeta": {
+                    "lat": 13.731,
+                    "lon": 100.521
+                },
+                "country": {
+                    "name": "Thailand",
+                    "id": "TH"
+                }
+            },
+            {
+                "name": "Barcelona",
+                "locId": "307297",
+                "geoMeta": {
+                    "lat": 41.385,
+                    "lon": 2.177
+                },
+                "country": {
+                    "name": "Spain",
+                    "id": "ES"
+                }
+            },
+            {
+                "name": "Barranquilla",
+                "locId": "107123",
+                "geoMeta": {
+                    "lat": 10.984,
+                    "lon": -74.806
+                },
+                "country": {
+                    "name": "Colombia",
+                    "id": "CO"
+                }
+            },
+            {
+                "name": "Basra",
+                "locId": "206820",
+                "geoMeta": {
+                    "lat": 30.486,
+                    "lon": 47.808
+                },
+                "country": {
+                    "name": "Iraq",
+                    "id": "IQ"
+                }
+            },
+            {
+                "name": "Beijing",
+                "locId": "101924",
+                "geoMeta": {
+                    "lat": 39.917,
+                    "lon": 116.407
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Belgrade",
+                "locId": "298198",
+                "geoMeta": {
+                    "lat": 44.817,
+                    "lon": 20.464
+                },
+                "country": {
+                    "name": "Serbia",
+                    "id": "RS"
+                }
+            },
+            {
+                "name": "Belo Horizonte",
+                "locId": "44403",
+                "geoMeta": {
+                    "lat": -19.938,
+                    "lon": -43.926
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Bengaluru",
+                "locId": "204108",
+                "geoMeta": {
+                    "lat": 12.991,
+                    "lon": 77.579
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Berlin",
+                "locId": "178087",
+                "geoMeta": {
+                    "lat": 52.518,
+                    "lon": 13.406
+                },
+                "country": {
+                    "name": "Germany",
+                    "id": "DE"
+                }
+            },
+            {
+                "name": "Bhopal",
+                "locId": "204408",
+                "geoMeta": {
+                    "lat": 23.244,
+                    "lon": 77.413
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Birmingham",
+                "locId": "326966",
+                "geoMeta": {
+                    "lat": 52.479,
+                    "lon": -1.905
+                },
+                "country": {
+                    "name": "United Kingdom",
+                    "id": "GB"
+                }
+            },
+            {
+                "name": "Bogotá",
+                "locId": "1-107487_1_AL",
+                "geoMeta": {
+                    "lat": 4.628,
+                    "lon": -74.077
+                },
+                "country": {
+                    "name": "Colombia",
+                    "id": "CO"
+                }
+            },
+            {
+                "name": "Brasília",
+                "locId": "43348",
+                "geoMeta": {
+                    "lat": -15.794,
+                    "lon": -47.888
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Brazzaville",
+                "locId": "111167",
+                "geoMeta": {
+                    "lat": -4.275,
+                    "lon": 15.287
+                },
+                "country": {
+                    "name": "Republic of the Congo",
+                    "id": "CG"
+                }
+            },
+            {
+                "name": "Brisbane",
+                "locId": "24741",
+                "geoMeta": {
+                    "lat": -27.469,
+                    "lon": 153.023
+                },
+                "country": {
+                    "name": "Australia",
+                    "id": "AU"
+                }
+            },
+            {
+                "name": "Bucharest",
+                "locId": "287430",
+                "geoMeta": {
+                    "lat": 44.436,
+                    "lon": 26.104
+                },
+                "country": {
+                    "name": "Romania",
+                    "id": "RO"
+                }
+            },
+            {
+                "name": "Budapest",
+                "locId": "187423",
+                "geoMeta": {
+                    "lat": 47.504,
+                    "lon": 19.05
+                },
+                "country": {
+                    "name": "Hungary",
+                    "id": "HU"
+                }
+            },
+            {
+                "name": "Buenos Aires",
+                "locId": "7894",
+                "geoMeta": {
+                    "lat": -34.608,
+                    "lon": -58.437
+                },
+                "country": {
+                    "name": "Argentina",
+                    "id": "AR"
+                }
+            },
+            {
+                "name": "Bulawayo",
+                "locId": "352477",
+                "geoMeta": {
+                    "lat": -20.172,
+                    "lon": 28.581
+                },
+                "country": {
+                    "name": "Zimbabwe",
+                    "id": "ZW"
+                }
+            },
+            {
+                "name": "Busan",
+                "locId": "222888",
+                "geoMeta": {
+                    "lat": 35.187,
+                    "lon": 129.082
+                },
+                "country": {
+                    "name": "South Korea",
+                    "id": "KR"
+                }
+            },
+            {
+                "name": "Cairo",
+                "locId": "127164",
+                "geoMeta": {
+                    "lat": 30.084,
+                    "lon": 31.255
+                },
+                "country": {
+                    "name": "Egypt",
+                    "id": "EG"
+                }
+            },
+            {
+                "name": "Calgary",
+                "locId": "52479",
+                "geoMeta": {
+                    "lat": 51.048,
+                    "lon": -114.068
+                },
+                "country": {
+                    "name": "Canada",
+                    "id": "CA"
+                }
+            },
+            {
+                "name": "Cali",
+                "locId": "111732",
+                "geoMeta": {
+                    "lat": 3.457,
+                    "lon": -76.522
+                },
+                "country": {
+                    "name": "Colombia",
+                    "id": "CO"
+                }
+            },
+            {
+                "name": "Caloocan",
+                "locId": "264875",
+                "geoMeta": {
+                    "lat": 14.651,
+                    "lon": 120.972
+                },
+                "country": {
+                    "name": "Philippines",
+                    "id": "PH"
+                }
+            },
+            {
+                "name": "Campinas",
+                "locId": "45883",
+                "geoMeta": {
+                    "lat": -22.907,
+                    "lon": -47.06
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Cape Town",
+                "locId": "306633",
+                "geoMeta": {
+                    "lat": -33.979,
+                    "lon": 18.482
+                },
+                "country": {
+                    "name": "South Africa",
+                    "id": "ZA"
+                }
+            },
+            {
+                "name": "Caracas",
+                "locId": "353020",
+                "geoMeta": {
+                    "lat": 10.496,
+                    "lon": -66.898
+                },
+                "country": {
+                    "name": "Venezuela",
+                    "id": "VE"
+                }
+            },
+            {
+                "name": "Casablanca",
+                "locId": "243353",
+                "geoMeta": {
+                    "lat": 33.605,
+                    "lon": -7.632
+                },
+                "country": {
+                    "name": "Morocco",
+                    "id": "MA"
+                }
+            },
+            {
+                "name": "Changchun",
+                "locId": "105915",
+                "geoMeta": {
+                    "lat": 43.883,
+                    "lon": 125.312
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Changsha",
+                "locId": "105567",
+                "geoMeta": {
+                    "lat": 28.19,
+                    "lon": 112.986
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Chaozhou",
+                "locId": "58184",
+                "geoMeta": {
+                    "lat": 23.665,
+                    "lon": 116.64
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Chengdu",
+                "locId": "106774",
+                "geoMeta": {
+                    "lat": 30.665,
+                    "lon": 104.072
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Chennai",
+                "locId": "206671",
+                "geoMeta": {
+                    "lat": 13.038,
+                    "lon": 80.245
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Chicago",
+                "locId": "348308",
+                "geoMeta": {
+                    "lat": 41.85,
+                    "lon": -87.65
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "Chittagong",
+                "locId": "27822",
+                "geoMeta": {
+                    "lat": 22.33,
+                    "lon": 91.825
+                },
+                "country": {
+                    "name": "Bangladesh",
+                    "id": "BD"
+                }
+            },
+            {
+                "name": "Chongqing",
+                "locId": "102144",
+                "geoMeta": {
+                    "lat": 29.561,
+                    "lon": 106.554
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Cologne",
+                "locId": "180169",
+                "geoMeta": {
+                    "lat": 50.938,
+                    "lon": 6.957
+                },
+                "country": {
+                    "name": "Germany",
+                    "id": "DE"
+                }
+            },
+            {
+                "name": "Curitiba",
+                "locId": "44944",
+                "geoMeta": {
+                    "lat": -25.433,
+                    "lon": -49.272
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Córdoba",
+                "locId": "8869",
+                "geoMeta": {
+                    "lat": -31.417,
+                    "lon": -64.183
+                },
+                "country": {
+                    "name": "Argentina",
+                    "id": "AR"
+                }
+            },
+            {
+                "name": "Daegu",
+                "locId": "223347",
+                "geoMeta": {
+                    "lat": 35.875,
+                    "lon": 128.572
+                },
+                "country": {
+                    "name": "South Korea",
+                    "id": "KR"
+                }
+            },
+            {
+                "name": "Daejeon",
+                "locId": "223352",
+                "geoMeta": {
+                    "lat": 36.335,
+                    "lon": 127.441
+                },
+                "country": {
+                    "name": "South Korea",
+                    "id": "KR"
+                }
+            },
+            {
+                "name": "Dakar",
+                "locId": "297442",
+                "geoMeta": {
+                    "lat": 14.687,
+                    "lon": -17.452
+                },
+                "country": {
+                    "name": "Senegal",
+                    "id": "SN"
+                }
+            },
+            {
+                "name": "Dalian",
+                "locId": "102133",
+                "geoMeta": {
+                    "lat": 38.918,
+                    "lon": 121.61
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Dallas",
+                "locId": "351194",
+                "geoMeta": {
+                    "lat": 32.783,
+                    "lon": -96.807
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "Dar es Salaam",
+                "locId": "317663",
+                "geoMeta": {
+                    "lat": -6.823,
+                    "lon": 39.27
+                },
+                "country": {
+                    "name": "Tanzania",
+                    "id": "TZ"
+                }
+            },
+            {
+                "name": "Davao City",
+                "locId": "262966",
+                "geoMeta": {
+                    "lat": 7.074,
+                    "lon": 125.609
+                },
+                "country": {
+                    "name": "Philippines",
+                    "id": "PH"
+                }
+            },
+            {
+                "name": "Delhi",
+                "locId": "202396",
+                "geoMeta": {
+                    "lat": 28.643,
+                    "lon": 77.118
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Dhaka",
+                "locId": "28143",
+                "geoMeta": {
+                    "lat": 23.71,
+                    "lon": 90.407
+                },
+                "country": {
+                    "name": "Bangladesh",
+                    "id": "BD"
+                }
+            },
+            {
+                "name": "Dongguan",
+                "locId": "58185",
+                "geoMeta": {
+                    "lat": 23.044,
+                    "lon": 113.746
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Douala",
+                "locId": "48810",
+                "geoMeta": {
+                    "lat": 4.047,
+                    "lon": 9.706
+                },
+                "country": {
+                    "name": "Cameroon",
+                    "id": "CM"
+                }
+            },
+            {
+                "name": "Dubai",
+                "locId": "323091",
+                "geoMeta": {
+                    "lat": 25.271,
+                    "lon": 55.313
+                },
+                "country": {
+                    "name": "United Arab Emirates",
+                    "id": "AE"
+                }
+            },
+            {
+                "name": "Durban",
+                "locId": "305605",
+                "geoMeta": {
+                    "lat": -29.836,
+                    "lon": 30.942
+                },
+                "country": {
+                    "name": "South Africa",
+                    "id": "ZA"
+                }
+            },
+            {
+                "name": "Johannesburg",
+                "locId": "305448",
+                "geoMeta": {
+                    "lat": -26.179,
+                    "lon": 28.004
+                },
+                "country": {
+                    "name": "South Africa",
+                    "id": "ZA"
+                }
+            },
+            {
+                "name": "Faisalabad",
+                "locId": "260626",
+                "geoMeta": {
+                    "lat": 31.409,
+                    "lon": 73.083
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Gardefort",
+                "locId": "2605786",
+                "geoMeta": {
+                    "lat": 47.269,
+                    "lon": 2.83
+                },
+                "country": {
+                    "name": "France",
+                    "id": "FR"
+                }
+            },
+            {
+                "name": "Fortaleza",
+                "locId": "43346",
+                "geoMeta": {
+                    "lat": -3.724,
+                    "lon": -38.59
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Foshan",
+                "locId": "58186",
+                "geoMeta": {
+                    "lat": 23.032,
+                    "lon": 113.112
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Fukuoka",
+                "locId": "1511636",
+                "geoMeta": {
+                    "lat": 40.274,
+                    "lon": 141.333
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Fuzhou",
+                "locId": "102244",
+                "geoMeta": {
+                    "lat": 26.086,
+                    "lon": 119.299
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Giza",
+                "locId": "127047",
+                "geoMeta": {
+                    "lat": 30.053,
+                    "lon": 31.202
+                },
+                "country": {
+                    "name": "Egypt",
+                    "id": "EG"
+                }
+            },
+            {
+                "name": "Guadalajara",
+                "locId": "243735",
+                "geoMeta": {
+                    "lat": 20.676,
+                    "lon": -103.342
+                },
+                "country": {
+                    "name": "Mexico",
+                    "id": "MX"
+                }
+            },
+            {
+                "name": "Guangzhou",
+                "locId": "102255",
+                "geoMeta": {
+                    "lat": 23.124,
+                    "lon": 113.248
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Guatemala City",
+                "locId": "187765",
+                "geoMeta": {
+                    "lat": 14.618,
+                    "lon": -90.525
+                },
+                "country": {
+                    "name": "Guatemala",
+                    "id": "GT"
+                }
+            },
+            {
+                "name": "Guayaquil",
+                "locId": "127947",
+                "geoMeta": {
+                    "lat": -2.204,
+                    "lon": -79.897
+                },
+                "country": {
+                    "name": "Ecuador",
+                    "id": "EC"
+                }
+            },
+            {
+                "name": "Gujranwala",
+                "locId": "260623",
+                "geoMeta": {
+                    "lat": 32.16,
+                    "lon": 74.179
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Hamburg",
+                "locId": "178556",
+                "geoMeta": {
+                    "lat": 53.551,
+                    "lon": 9.997
+                },
+                "country": {
+                    "name": "Germany",
+                    "id": "DE"
+                }
+            },
+            {
+                "name": "Hangzhou",
+                "locId": "106832",
+                "geoMeta": {
+                    "lat": 30.269,
+                    "lon": 120.169
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Hanoi",
+                "locId": "353412",
+                "geoMeta": {
+                    "lat": 20.999,
+                    "lon": 105.7
+                },
+                "country": {
+                    "name": "Vietnam",
+                    "id": "VN"
+                }
+            },
+            {
+                "name": "Harare",
+                "locId": "353558",
+                "geoMeta": {
+                    "lat": -17.823,
+                    "lon": 31.05
+                },
+                "country": {
+                    "name": "Zimbabwe",
+                    "id": "ZW"
+                }
+            },
+            {
+                "name": "Harbin",
+                "locId": "102669",
+                "geoMeta": {
+                    "lat": 45.75,
+                    "lon": 126.625
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Havana",
+                "locId": "122438",
+                "geoMeta": {
+                    "lat": 23.117,
+                    "lon": -82.389
+                },
+                "country": {
+                    "name": "Cuba",
+                    "id": "CU"
+                }
+            },
+            {
+                "name": "Hefei",
+                "locId": "101841",
+                "geoMeta": {
+                    "lat": 31.847,
+                    "lon": 117.247
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Hiroshima",
+                "locId": "2374980",
+                "geoMeta": {
+                    "lat": 37.058,
+                    "lon": 138.27
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Ho Chi Minh City",
+                "locId": "353981",
+                "geoMeta": {
+                    "lat": 10.775,
+                    "lon": 106.702
+                },
+                "country": {
+                    "name": "Vietnam",
+                    "id": "VN"
+                }
+            },
+            {
+                "name": "Hong Kong",
+                "locId": "1123655",
+                "geoMeta": {
+                    "lat": 22.369,
+                    "lon": 114.174
+                },
+                "country": {
+                    "name": "Hong Kong",
+                    "id": "HK"
+                }
+            },
+            {
+                "name": "Houston",
+                "locId": "351197",
+                "geoMeta": {
+                    "lat": 29.763,
+                    "lon": -95.363
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "Hyderabad",
+                "locId": "261159",
+                "geoMeta": {
+                    "lat": 25.381,
+                    "lon": 68.364
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Hyderabad",
+                "locId": "261159",
+                "geoMeta": {
+                    "lat": 25.381,
+                    "lon": 68.364
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Ibadan",
+                "locId": "255043",
+                "geoMeta": {
+                    "lat": 7.379,
+                    "lon": 3.895
+                },
+                "country": {
+                    "name": "Nigeria",
+                    "id": "NG"
+                }
+            },
+            {
+                "name": "Incheon",
+                "locId": "224032",
+                "geoMeta": {
+                    "lat": 37.492,
+                    "lon": 126.724
+                },
+                "country": {
+                    "name": "South Korea",
+                    "id": "KR"
+                }
+            },
+            {
+                "name": "Isfahan",
+                "locId": "208194",
+                "geoMeta": {
+                    "lat": 32.651,
+                    "lon": 51.679
+                },
+                "country": {
+                    "name": "Iran",
+                    "id": "IR"
+                }
+            },
+            {
+                "name": "Islamabad",
+                "locId": "258278",
+                "geoMeta": {
+                    "lat": 33.71,
+                    "lon": 73.076
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Istanbul",
+                "locId": "318251",
+                "geoMeta": {
+                    "lat": 41.011,
+                    "lon": 28.958
+                },
+                "country": {
+                    "name": "Türkiye",
+                    "id": "TR"
+                }
+            },
+            {
+                "name": "İzmir",
+                "locId": "1-318290_1_AL",
+                "geoMeta": {
+                    "lat": 38.413,
+                    "lon": 27.138
+                },
+                "country": {
+                    "name": "Türkiye",
+                    "id": "TR"
+                }
+            },
+            {
+                "name": "Jaipur",
+                "locId": "205617",
+                "geoMeta": {
+                    "lat": 26.929,
+                    "lon": 75.771
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Jakarta",
+                "locId": "208971",
+                "geoMeta": {
+                    "lat": -6.175,
+                    "lon": 106.827
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": "ID"
+                }
+            },
+            {
+                "name": "Jeddah",
+                "locId": "299429",
+                "geoMeta": {
+                    "lat": 21.543,
+                    "lon": 39.173
+                },
+                "country": {
+                    "name": "Saudi Arabia",
+                    "id": "SA"
+                }
+            },
+            {
+                "name": "Jinan",
+                "locId": "106570",
+                "geoMeta": {
+                    "lat": 36.683,
+                    "lon": 116.966
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Johannesburg",
+                "locId": "305448",
+                "geoMeta": {
+                    "lat": -26.179,
+                    "lon": 28.004
+                },
+                "country": {
+                    "name": "South Africa",
+                    "id": "ZA"
+                }
+            },
+            {
+                "name": "Kabul",
+                "locId": "4361",
+                "geoMeta": {
+                    "lat": 34.531,
+                    "lon": 69.137
+                },
+                "country": {
+                    "name": "Afghanistan",
+                    "id": "AF"
+                }
+            },
+            {
+                "name": "Kampala",
+                "locId": "318416",
+                "geoMeta": {
+                    "lat": 0.323,
+                    "lon": 32.575
+                },
+                "country": {
+                    "name": "Uganda",
+                    "id": "UG"
+                }
+            },
+            {
+                "name": "Kano",
+                "locId": "253466",
+                "geoMeta": {
+                    "lat": 11.989,
+                    "lon": 8.523
+                },
+                "country": {
+                    "name": "Nigeria",
+                    "id": "NG"
+                }
+            },
+            {
+                "name": "Kanpur",
+                "locId": "206679",
+                "geoMeta": {
+                    "lat": 26.375,
+                    "lon": 80.395
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Kaohsiung",
+                "locId": "4-313812_1_AL",
+                "geoMeta": {
+                    "lat": 22.629,
+                    "lon": 120.303
+                },
+                "country": {
+                    "name": "Taiwan",
+                    "id": "TW"
+                }
+            },
+            {
+                "name": "Karachi",
+                "locId": "261158",
+                "geoMeta": {
+                    "lat": 24.89,
+                    "lon": 67.029
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Karaj",
+                "locId": "211367",
+                "geoMeta": {
+                    "lat": 35.827,
+                    "lon": 50.98
+                },
+                "country": {
+                    "name": "Iran",
+                    "id": "IR"
+                }
+            },
+            {
+                "name": "Kathmandu",
+                "locId": "241809",
+                "geoMeta": {
+                    "lat": 27.702,
+                    "lon": 85.317
+                },
+                "country": {
+                    "name": "Nepal",
+                    "id": "NP"
+                }
+            },
+            {
+                "name": "Kawasaki",
+                "locId": "2408795",
+                "geoMeta": {
+                    "lat": 37.453,
+                    "lon": 138.869
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Kharkiv",
+                "locId": "323903",
+                "geoMeta": {
+                    "lat": 49.99,
+                    "lon": 36.23
+                },
+                "country": {
+                    "name": "Ukraine",
+                    "id": "UA"
+                }
+            },
+            {
+                "name": "Khartoum",
+                "locId": "308406",
+                "geoMeta": {
+                    "lat": 15.591,
+                    "lon": 32.519
+                },
+                "country": {
+                    "name": "Sudan",
+                    "id": "SD"
+                }
+            },
+            {
+                "name": "Kiev",
+                "locId": "1-324505_1_AL",
+                "geoMeta": {
+                    "lat": 50.45,
+                    "lon": 30.524
+                },
+                "country": {
+                    "name": "Ukraine",
+                    "id": "UA"
+                }
+            },
+            {
+                "name": "Kinshasa",
+                "locId": "113487",
+                "geoMeta": {
+                    "lat": -4.316,
+                    "lon": 15.298
+                },
+                "country": {
+                    "name": "Democratic Republic of the Congo",
+                    "id": "CD"
+                }
+            },
+            {
+                "name": "Kobe",
+                "locId": "205056",
+                "geoMeta": {
+                    "lat": 0.421,
+                    "lon": 127.898
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": "ID"
+                }
+            },
+            {
+                "name": "Kolkata",
+                "locId": "206690",
+                "geoMeta": {
+                    "lat": 22.526,
+                    "lon": 88.353
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Kuala Lumpur",
+                "locId": "233776",
+                "geoMeta": {
+                    "lat": 3.158,
+                    "lon": 101.712
+                },
+                "country": {
+                    "name": "Malaysia",
+                    "id": "MY"
+                }
+            },
+            {
+                "name": "Gwangju",
+                "locId": "223627",
+                "geoMeta": {
+                    "lat": 35.156,
+                    "lon": 126.925
+                },
+                "country": {
+                    "name": "South Korea",
+                    "id": "KR"
+                }
+            },
+            {
+                "name": "Kyoto",
+                "locId": "725150",
+                "geoMeta": {
+                    "lat": -2.05,
+                    "lon": 31.683
+                },
+                "country": {
+                    "name": "Tanzania",
+                    "id": "TZ"
+                }
+            },
+            {
+                "name": "Lagos",
+                "locId": "4607",
+                "geoMeta": {
+                    "lat": 6.45,
+                    "lon": 3.428
+                },
+                "country": {
+                    "name": "Nigeria",
+                    "id": "NG"
+                }
+            },
+            {
+                "name": "Lahore",
+                "locId": "260622",
+                "geoMeta": {
+                    "lat": 31.55,
+                    "lon": 74.327
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Lanzhou",
+                "locId": "102246",
+                "geoMeta": {
+                    "lat": 36.054,
+                    "lon": 103.838
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Lima",
+                "locId": "264120",
+                "geoMeta": {
+                    "lat": -12.082,
+                    "lon": -77.045
+                },
+                "country": {
+                    "name": "Peru",
+                    "id": "PE"
+                }
+            },
+            {
+                "name": "London",
+                "locId": "328328",
+                "geoMeta": {
+                    "lat": 51.514,
+                    "lon": -0.107
+                },
+                "country": {
+                    "name": "United Kingdom",
+                    "id": "GB"
+                }
+            },
+            {
+                "name": "Los Angeles",
+                "locId": "347625",
+                "geoMeta": {
+                    "lat": 34.052,
+                    "lon": -118.244
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "Luanda",
+                "locId": "4651",
+                "geoMeta": {
+                    "lat": -8.812,
+                    "lon": 13.235
+                },
+                "country": {
+                    "name": "Angola",
+                    "id": "AO"
+                }
+            },
+            {
+                "name": "Lucknow",
+                "locId": "206678",
+                "geoMeta": {
+                    "lat": 26.822,
+                    "lon": 80.881
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Lusaka",
+                "locId": "354544",
+                "geoMeta": {
+                    "lat": -15.409,
+                    "lon": 28.282
+                },
+                "country": {
+                    "name": "Zambia",
+                    "id": "ZM"
+                }
+            },
+            {
+                "name": "Madrid",
+                "locId": "308526",
+                "geoMeta": {
+                    "lat": 40.41,
+                    "lon": -3.686
+                },
+                "country": {
+                    "name": "Spain",
+                    "id": "ES"
+                }
+            },
+            {
+                "name": "Makassar",
+                "locId": "211242",
+                "geoMeta": {
+                    "lat": -5.184,
+                    "lon": 119.441
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": "ID"
+                }
+            },
+            {
+                "name": "Managua",
+                "locId": "253810",
+                "geoMeta": {
+                    "lat": 12.151,
+                    "lon": -86.273
+                },
+                "country": {
+                    "name": "Nicaragua",
+                    "id": "NI"
+                }
+            },
+            {
+                "name": "Mandalay",
+                "locId": "244163",
+                "geoMeta": {
+                    "lat": 21.977,
+                    "lon": 96.092
+                },
+                "country": {
+                    "name": "Myanmar",
+                    "id": "MM"
+                }
+            },
+            {
+                "name": "Manila",
+                "locId": "264885",
+                "geoMeta": {
+                    "lat": 14.59,
+                    "lon": 120.982
+                },
+                "country": {
+                    "name": "Philippines",
+                    "id": "PH"
+                }
+            },
+            {
+                "name": "Maputo",
+                "locId": "242431",
+                "geoMeta": {
+                    "lat": -25.968,
+                    "lon": 32.581
+                },
+                "country": {
+                    "name": "Mozambique",
+                    "id": "MZ"
+                }
+            },
+            {
+                "name": "Maracaibo",
+                "locId": "356583",
+                "geoMeta": {
+                    "lat": 10.614,
+                    "lon": -71.623
+                },
+                "country": {
+                    "name": "Venezuela",
+                    "id": "VE"
+                }
+            },
+            {
+                "name": "Mashhad",
+                "locId": "209737",
+                "geoMeta": {
+                    "lat": 36.29,
+                    "lon": 59.597
+                },
+                "country": {
+                    "name": "Iran",
+                    "id": "IR"
+                }
+            },
+            {
+                "name": "Medan",
+                "locId": "211298",
+                "geoMeta": {
+                    "lat": 3.592,
+                    "lon": 98.68
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": "ID"
+                }
+            },
+            {
+                "name": "Medellin",
+                "locId": "107060",
+                "geoMeta": {
+                    "lat": 6.244,
+                    "lon": -75.574
+                },
+                "country": {
+                    "name": "Colombia",
+                    "id": "CO"
+                }
+            },
+            {
+                "name": "Melbourne",
+                "locId": "26216",
+                "geoMeta": {
+                    "lat": -37.812,
+                    "lon": 144.967
+                },
+                "country": {
+                    "name": "Australia",
+                    "id": "AU"
+                }
+            },
+            {
+                "name": "Mexico City",
+                "locId": "242560",
+                "geoMeta": {
+                    "lat": 19.433,
+                    "lon": -99.133
+                },
+                "country": {
+                    "name": "Mexico",
+                    "id": "MX"
+                }
+            },
+            {
+                "name": "Milan",
+                "locId": "214046",
+                "geoMeta": {
+                    "lat": 45.465,
+                    "lon": 9.189
+                },
+                "country": {
+                    "name": "Italy",
+                    "id": "IT"
+                }
+            },
+            {
+                "name": "Minsk",
+                "locId": "28580",
+                "geoMeta": {
+                    "lat": 53.9,
+                    "lon": 27.576
+                },
+                "country": {
+                    "name": "Belarus",
+                    "id": "BY"
+                }
+            },
+            {
+                "name": "Monterrey",
+                "locId": "244681",
+                "geoMeta": {
+                    "lat": 25.665,
+                    "lon": -100.311
+                },
+                "country": {
+                    "name": "Mexico",
+                    "id": "MX"
+                }
+            },
+            {
+                "name": "Montevideo",
+                "locId": "349269",
+                "geoMeta": {
+                    "lat": -34.881,
+                    "lon": -56.165
+                },
+                "country": {
+                    "name": "Uruguay",
+                    "id": "UY"
+                }
+            },
+            {
+                "name": "Montreal",
+                "locId": "56186",
+                "geoMeta": {
+                    "lat": 45.506,
+                    "lon": -73.574
+                },
+                "country": {
+                    "name": "Canada",
+                    "id": "CA"
+                }
+            },
+            {
+                "name": "Moscow",
+                "locId": "294021",
+                "geoMeta": {
+                    "lat": 55.752,
+                    "lon": 37.619
+                },
+                "country": {
+                    "name": "Russia",
+                    "id": "RU"
+                }
+            },
+            {
+                "name": "Mumbai",
+                "locId": "204842",
+                "geoMeta": {
+                    "lat": 19.143,
+                    "lon": 72.878
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Munich",
+                "locId": "178086",
+                "geoMeta": {
+                    "lat": 48.137,
+                    "lon": 11.576
+                },
+                "country": {
+                    "name": "Germany",
+                    "id": "DE"
+                }
+            },
+            {
+                "name": "Nagoya",
+                "locId": "2334902",
+                "geoMeta": {
+                    "lat": 35.85,
+                    "lon": 140.369
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Nagpur",
+                "locId": "204844",
+                "geoMeta": {
+                    "lat": 21.142,
+                    "lon": 79.085
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Nairobi",
+                "locId": "224758",
+                "geoMeta": {
+                    "lat": -1.27,
+                    "lon": 36.804
+                },
+                "country": {
+                    "name": "Kenya",
+                    "id": "KE"
+                }
+            },
+            {
+                "name": "Nanjing",
+                "locId": "105570",
+                "geoMeta": {
+                    "lat": 32.043,
+                    "lon": 118.781
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "New Taipei City",
+                "locId": "2515397",
+                "geoMeta": {
+                    "lat": 25.013,
+                    "lon": 121.463
+                },
+                "country": {
+                    "name": "Taiwan",
+                    "id": "TW"
+                }
+            },
+            {
+                "name": "New York City",
+                "locId": "14-349727_1_AL",
+                "geoMeta": {
+                    "lat": 40.779,
+                    "lon": -73.969
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "Ningbo",
+                "locId": "61620",
+                "geoMeta": {
+                    "lat": 29.874,
+                    "lon": 121.549
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Nizhny Novgorod",
+                "locId": "294199",
+                "geoMeta": {
+                    "lat": 56.324,
+                    "lon": 43.99
+                },
+                "country": {
+                    "name": "Russia",
+                    "id": "RU"
+                }
+            },
+            {
+                "name": "Novosibirsk",
+                "locId": "294459",
+                "geoMeta": {
+                    "lat": 55.028,
+                    "lon": 82.923
+                },
+                "country": {
+                    "name": "Russia",
+                    "id": "RU"
+                }
+            },
+            {
+                "name": "Omsk",
+                "locId": "294463",
+                "geoMeta": {
+                    "lat": 54.991,
+                    "lon": 73.371
+                },
+                "country": {
+                    "name": "Russia",
+                    "id": "RU"
+                }
+            },
+            {
+                "name": "Oran",
+                "locId": "5671",
+                "geoMeta": {
+                    "lat": 35.702,
+                    "lon": -0.642
+                },
+                "country": {
+                    "name": "Algeria",
+                    "id": "DZ"
+                }
+            },
+            {
+                "name": "Osaka",
+                "locId": "2421828",
+                "geoMeta": {
+                    "lat": 40.595,
+                    "lon": 141.25
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Ouagadougou",
+                "locId": "48097",
+                "geoMeta": {
+                    "lat": 12.364,
+                    "lon": -1.528
+                },
+                "country": {
+                    "name": "Burkina Faso",
+                    "id": "BF"
+                }
+            },
+            {
+                "name": "Palembang",
+                "locId": "211288",
+                "geoMeta": {
+                    "lat": -2.977,
+                    "lon": 104.742
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": "ID"
+                }
+            },
+            {
+                "name": "Paris",
+                "locId": "623",
+                "geoMeta": {
+                    "lat": 48.857,
+                    "lon": 2.351
+                },
+                "country": {
+                    "name": "France",
+                    "id": "FR"
+                }
+            },
+            {
+                "name": "Patna",
+                "locId": "202349",
+                "geoMeta": {
+                    "lat": 25.599,
+                    "lon": 85.129
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Peshawar",
+                "locId": "259370",
+                "geoMeta": {
+                    "lat": 34.009,
+                    "lon": 71.559
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Philadelphia",
+                "locId": "350540",
+                "geoMeta": {
+                    "lat": 39.952,
+                    "lon": -75.164
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "Phnom Penh",
+                "locId": "49785",
+                "geoMeta": {
+                    "lat": 11.565,
+                    "lon": 104.913
+                },
+                "country": {
+                    "name": "Cambodia",
+                    "id": "KH"
+                }
+            },
+            {
+                "name": "Phoenix",
+                "locId": "346935",
+                "geoMeta": {
+                    "lat": 33.448,
+                    "lon": -112.074
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "Porto Alegre",
+                "locId": "45561",
+                "geoMeta": {
+                    "lat": -30.03,
+                    "lon": -51.229
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Prague",
+                "locId": "125594",
+                "geoMeta": {
+                    "lat": 50.088,
+                    "lon": 14.421
+                },
+                "country": {
+                    "name": "Czechia",
+                    "id": "CZ"
+                }
+            },
+            {
+                "name": "Pune",
+                "locId": "204848",
+                "geoMeta": {
+                    "lat": 18.499,
+                    "lon": 73.866
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Pyongyang",
+                "locId": "225058",
+                "geoMeta": {
+                    "lat": 39.014,
+                    "lon": 125.776
+                },
+                "country": {
+                    "name": "North Korea",
+                    "id": "KP"
+                }
+            },
+            {
+                "name": "Qingdao",
+                "locId": "106573",
+                "geoMeta": {
+                    "lat": 36.07,
+                    "lon": 120.323
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Qom",
+                "locId": "210842",
+                "geoMeta": {
+                    "lat": 34.644,
+                    "lon": 50.881
+                },
+                "country": {
+                    "name": "Iran",
+                    "id": "IR"
+                }
+            },
+            {
+                "name": "Quanzhou",
+                "locId": "57918",
+                "geoMeta": {
+                    "lat": 24.914,
+                    "lon": 118.586
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Quezon City",
+                "locId": "264873",
+                "geoMeta": {
+                    "lat": 14.651,
+                    "lon": 121.049
+                },
+                "country": {
+                    "name": "Philippines",
+                    "id": "PH"
+                }
+            },
+            {
+                "name": "Quito",
+                "locId": "129846",
+                "geoMeta": {
+                    "lat": -0.229,
+                    "lon": -78.524
+                },
+                "country": {
+                    "name": "Ecuador",
+                    "id": "EC"
+                }
+            },
+            {
+                "name": "Rawalpindi",
+                "locId": "260625",
+                "geoMeta": {
+                    "lat": 33.606,
+                    "lon": 73.053
+                },
+                "country": {
+                    "name": "Pakistan",
+                    "id": "PK"
+                }
+            },
+            {
+                "name": "Recife",
+                "locId": "45090",
+                "geoMeta": {
+                    "lat": -8.063,
+                    "lon": -34.889
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Rio de Janeiro",
+                "locId": "45449",
+                "geoMeta": {
+                    "lat": -22.877,
+                    "lon": -43.228
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Riyadh",
+                "locId": "297030",
+                "geoMeta": {
+                    "lat": 24.64,
+                    "lon": 46.753
+                },
+                "country": {
+                    "name": "Saudi Arabia",
+                    "id": "SA"
+                }
+            },
+            {
+                "name": "Rome",
+                "locId": "213490",
+                "geoMeta": {
+                    "lat": 41.901,
+                    "lon": 12.48
+                },
+                "country": {
+                    "name": "Italy",
+                    "id": "IT"
+                }
+            },
+            {
+                "name": "Rosario",
+                "locId": "11222",
+                "geoMeta": {
+                    "lat": -32.959,
+                    "lon": -60.662
+                },
+                "country": {
+                    "name": "Argentina",
+                    "id": "AR"
+                }
+            },
+            {
+                "name": "Rostov-on-Don",
+                "locId": "295146",
+                "geoMeta": {
+                    "lat": 47.225,
+                    "lon": 39.702
+                },
+                "country": {
+                    "name": "Russia",
+                    "id": "RU"
+                }
+            },
+            {
+                "name": "Saint Petersburg",
+                "locId": "295212",
+                "geoMeta": {
+                    "lat": 59.939,
+                    "lon": 30.315
+                },
+                "country": {
+                    "name": "Russia",
+                    "id": "RU"
+                }
+            },
+            {
+                "name": "Saitama",
+                "locId": "1-2012157_1_AL",
+                "geoMeta": {
+                    "lat": 35.906,
+                    "lon": 139.627
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Salvador",
+                "locId": "43080",
+                "geoMeta": {
+                    "lat": -13.015,
+                    "lon": -38.488
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "San Antonio",
+                "locId": "351198",
+                "geoMeta": {
+                    "lat": 29.424,
+                    "lon": -98.494
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "San Diego",
+                "locId": "347628",
+                "geoMeta": {
+                    "lat": 32.715,
+                    "lon": -117.157
+                },
+                "country": {
+                    "name": "United States",
+                    "id": "US"
+                }
+            },
+            {
+                "name": "Sana'a",
+                "locId": "355809",
+                "geoMeta": {
+                    "lat": 15.361,
+                    "lon": 44.209
+                },
+                "country": {
+                    "name": "Yemen",
+                    "id": "YE"
+                }
+            },
+            {
+                "name": "Santa Cruz de la Sierra",
+                "locId": "36300",
+                "geoMeta": {
+                    "lat": -17.79,
+                    "lon": -63.185
+                },
+                "country": {
+                    "name": "Bolivia",
+                    "id": "BO"
+                }
+            },
+            {
+                "name": "Santiago",
+                "locId": "60449",
+                "geoMeta": {
+                    "lat": -33.446,
+                    "lon": -70.659
+                },
+                "country": {
+                    "name": "Chile",
+                    "id": "CL"
+                }
+            },
+            {
+                "name": "Sapporo",
+                "locId": "1-223985_1_AL",
+                "geoMeta": {
+                    "lat": 43.055,
+                    "lon": 141.355
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Semarang",
+                "locId": "208981",
+                "geoMeta": {
+                    "lat": -7.059,
+                    "lon": 110.433
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": "ID"
+                }
+            },
+            {
+                "name": "Seoul",
+                "locId": "226081",
+                "geoMeta": {
+                    "lat": 37.537,
+                    "lon": 126.97
+                },
+                "country": {
+                    "name": "South Korea",
+                    "id": "KR"
+                }
+            },
+            {
+                "name": "Shanghai",
+                "locId": "106577",
+                "geoMeta": {
+                    "lat": 31.232,
+                    "lon": 121.444
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Shantou",
+                "locId": "102257",
+                "geoMeta": {
+                    "lat": 23.36,
+                    "lon": 116.679
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Shenyang",
+                "locId": "102136",
+                "geoMeta": {
+                    "lat": 41.795,
+                    "lon": 123.425
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Shenzhen",
+                "locId": "58194",
+                "geoMeta": {
+                    "lat": 22.546,
+                    "lon": 114.116
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Shijiazhuang",
+                "locId": "102323",
+                "geoMeta": {
+                    "lat": 38.067,
+                    "lon": 114.518
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Shiraz",
+                "locId": "208538",
+                "geoMeta": {
+                    "lat": 29.615,
+                    "lon": 52.539
+                },
+                "country": {
+                    "name": "Iran",
+                    "id": "IR"
+                }
+            },
+            {
+                "name": "Singapore",
+                "locId": "300597",
+                "geoMeta": {
+                    "lat": 1.311,
+                    "lon": 103.843
+                },
+                "country": {
+                    "name": "Singapore",
+                    "id": "SG"
+                }
+            },
+            {
+                "name": "Sofia",
+                "locId": "51097",
+                "geoMeta": {
+                    "lat": 42.686,
+                    "lon": 23.337
+                },
+                "country": {
+                    "name": "Bulgaria",
+                    "id": "BG"
+                }
+            },
+            {
+                "name": "Surabaya",
+                "locId": "203449",
+                "geoMeta": {
+                    "lat": -7.295,
+                    "lon": 112.73
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": "ID"
+                }
+            },
+            {
+                "name": "Surat",
+                "locId": "202441",
+                "geoMeta": {
+                    "lat": 21.187,
+                    "lon": 72.821
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Suwon",
+                "locId": "223670",
+                "geoMeta": {
+                    "lat": 37.262,
+                    "lon": 127.029
+                },
+                "country": {
+                    "name": "South Korea",
+                    "id": "KR"
+                }
+            },
+            {
+                "name": "Suzhou",
+                "locId": "56916",
+                "geoMeta": {
+                    "lat": 33.639,
+                    "lon": 116.982
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Sydney",
+                "locId": "22889",
+                "geoMeta": {
+                    "lat": -33.87,
+                    "lon": 151.209
+                },
+                "country": {
+                    "name": "Australia",
+                    "id": "AU"
+                }
+            },
+            {
+                "name": "São Paulo",
+                "locId": "45881",
+                "geoMeta": {
+                    "lat": -23.567,
+                    "lon": -46.57
+                },
+                "country": {
+                    "name": "Brazil",
+                    "id": "BR"
+                }
+            },
+            {
+                "name": "Tbilisi",
+                "locId": "171705",
+                "geoMeta": {
+                    "lat": 41.722,
+                    "lon": 44.783
+                },
+                "country": {
+                    "name": "Georgia",
+                    "id": "GE"
+                }
+            },
+            {
+                "name": "Tabriz",
+                "locId": "207308",
+                "geoMeta": {
+                    "lat": 38.08,
+                    "lon": 46.292
+                },
+                "country": {
+                    "name": "Iran",
+                    "id": "IR"
+                }
+            },
+            {
+                "name": "Taichung",
+                "locId": "6-315040_1_AL",
+                "geoMeta": {
+                    "lat": 24.144,
+                    "lon": 120.673
+                },
+                "country": {
+                    "name": "Taiwan",
+                    "id": "TW"
+                }
+            },
+            {
+                "name": "Tainan",
+                "locId": "4-314999_1_AL",
+                "geoMeta": {
+                    "lat": 22.991,
+                    "lon": 120.205
+                },
+                "country": {
+                    "name": "Taiwan",
+                    "id": "TW"
+                }
+            },
+            {
+                "name": "Taipei",
+                "locId": "4-315078_1_AL",
+                "geoMeta": {
+                    "lat": 25.048,
+                    "lon": 121.514
+                },
+                "country": {
+                    "name": "Taiwan",
+                    "id": "TW"
+                }
+            },
+            {
+                "name": "Tangshan",
+                "locId": "102324",
+                "geoMeta": {
+                    "lat": 39.633,
+                    "lon": 118.159
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Tashkent",
+                "locId": "351199",
+                "geoMeta": {
+                    "lat": 41.305,
+                    "lon": 69.269
+                },
+                "country": {
+                    "name": "Uzbekistan",
+                    "id": "UZ"
+                }
+            },
+            {
+                "name": "Tehran",
+                "locId": "210841",
+                "geoMeta": {
+                    "lat": 35.701,
+                    "lon": 51.407
+                },
+                "country": {
+                    "name": "Iran",
+                    "id": "IR"
+                }
+            },
+            {
+                "name": "Tianjin",
+                "locId": "106780",
+                "geoMeta": {
+                    "lat": 39.121,
+                    "lon": 117.201
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Tijuana",
+                "locId": "241912",
+                "geoMeta": {
+                    "lat": 32.532,
+                    "lon": -117.019
+                },
+                "country": {
+                    "name": "Mexico",
+                    "id": "MX"
+                }
+            },
+            {
+                "name": "Tokyo",
+                "locId": "226396",
+                "geoMeta": {
+                    "lat": 35.683,
+                    "lon": 139.809
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Toronto",
+                "locId": "55488",
+                "geoMeta": {
+                    "lat": 43.649,
+                    "lon": -79.38
+                },
+                "country": {
+                    "name": "Canada",
+                    "id": "CA"
+                }
+            },
+            {
+                "name": "Tripoli",
+                "locId": "230555",
+                "geoMeta": {
+                    "lat": 32.878,
+                    "lon": 13.187
+                },
+                "country": {
+                    "name": "Libya",
+                    "id": "LY"
+                }
+            },
+            {
+                "name": "Tunis",
+                "locId": "321398",
+                "geoMeta": {
+                    "lat": 36.819,
+                    "lon": 10.166
+                },
+                "country": {
+                    "name": "Tunisia",
+                    "id": "TN"
+                }
+            },
+            {
+                "name": "Ulsan",
+                "locId": "226451",
+                "geoMeta": {
+                    "lat": 35.558,
+                    "lon": 129.316
+                },
+                "country": {
+                    "name": "South Korea",
+                    "id": "KR"
+                }
+            },
+            {
+                "name": "Vienna",
+                "locId": "31868",
+                "geoMeta": {
+                    "lat": 48.208,
+                    "lon": 16.372
+                },
+                "country": {
+                    "name": "Austria",
+                    "id": "AT"
+                }
+            },
+            {
+                "name": "Vijayawada",
+                "locId": "186815",
+                "geoMeta": {
+                    "lat": 16.524,
+                    "lon": 80.645
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Visakhapatnam",
+                "locId": "202192",
+                "geoMeta": {
+                    "lat": 17.726,
+                    "lon": 83.275
+                },
+                "country": {
+                    "name": "India",
+                    "id": "IN"
+                }
+            },
+            {
+                "name": "Warsaw",
+                "locId": "274663",
+                "geoMeta": {
+                    "lat": 52.232,
+                    "lon": 21.007
+                },
+                "country": {
+                    "name": "Poland",
+                    "id": "PL"
+                }
+            },
+            {
+                "name": "Wenzhou",
+                "locId": "61623",
+                "geoMeta": {
+                    "lat": 28.016,
+                    "lon": 120.651
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Wuhan",
+                "locId": "103847",
+                "geoMeta": {
+                    "lat": 30.587,
+                    "lon": 114.274
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Xi'an",
+                "locId": "106566",
+                "geoMeta": {
+                    "lat": 34.266,
+                    "lon": 108.94
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Xiamen",
+                "locId": "57919",
+                "geoMeta": {
+                    "lat": 24.472,
+                    "lon": 118.101
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Yangon",
+                "locId": "246562",
+                "geoMeta": {
+                    "lat": 16.798,
+                    "lon": 96.15
+                },
+                "country": {
+                    "name": "Myanmar",
+                    "id": "MM"
+                }
+            },
+            {
+                "name": "Yaoundé",
+                "locId": "1-47601_1_AL",
+                "geoMeta": {
+                    "lat": 3.872,
+                    "lon": 11.512
+                },
+                "country": {
+                    "name": "Cameroon",
+                    "id": "CM"
+                }
+            },
+            {
+                "name": "Yekaterinburg",
+                "locId": "295863",
+                "geoMeta": {
+                    "lat": 56.839,
+                    "lon": 60.608
+                },
+                "country": {
+                    "name": "Russia",
+                    "id": "RU"
+                }
+            },
+            {
+                "name": "Yerevan",
+                "locId": "16890",
+                "geoMeta": {
+                    "lat": 40.208,
+                    "lon": 44.533
+                },
+                "country": {
+                    "name": "Armenia",
+                    "id": "AM"
+                }
+            },
+            {
+                "name": "Yokohama",
+                "locId": "2383413",
+                "geoMeta": {
+                    "lat": 33.587,
+                    "lon": 130.263
+                },
+                "country": {
+                    "name": "Japan",
+                    "id": "JP"
+                }
+            },
+            {
+                "name": "Zhengzhou",
+                "locId": "102675",
+                "geoMeta": {
+                    "lat": 34.781,
+                    "lon": 113.653
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Zhongshan",
+                "locId": "2070963",
+                "geoMeta": {
+                    "lat": 22.522,
+                    "lon": 113.367
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            },
+            {
+                "name": "Zunyi",
+                "locId": "58497",
+                "geoMeta": {
+                    "lat": 27.689,
+                    "lon": 106.925
+                },
+                "country": {
+                    "name": "China",
+                    "id": "CN"
+                }
+            }
+        ]
+    }
+}
