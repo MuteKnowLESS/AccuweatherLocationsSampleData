@@ -1,0 +1,9 @@
+please format sampleCurrentWeather.json like this if possible:
+{<locationID>: {
+  <json object in same format as it would be from a get requests to the current weather api>
+ },
+ {<locationID>: {
+  <...>
+ },
+ <...>
+ 
